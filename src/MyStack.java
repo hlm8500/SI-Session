@@ -7,5 +7,6 @@ public interface MyStack<E>{
     E top();
 
     boolean isEmpty();
+    //Yan is the best
 
 }
