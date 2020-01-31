@@ -1,6 +1,6 @@
-public interface Stack<E>{
+public interface MyStack<E>{
 
-    void push();
+    void push(E item);
 
     E pop();
 
